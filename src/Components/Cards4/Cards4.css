@@ -1,0 +1,10 @@
+.container{
+    background: #FAFAFA;
+    padding-top: 30px;
+    position: relative;
+    width: 100%;
+    overflow:auto;
+    top: 50px;
+    bottom:0;
+    font-family: 'Playfair Display','Open Sans',sans-serif;
+}

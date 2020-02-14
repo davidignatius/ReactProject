@@ -1,0 +1,32 @@
+/* .about{
+    display:block;
+} */
+.aboutcontainer{
+    display:block;
+    background: #FAFAFA;
+    padding-top: 300px;
+    position: absolute;
+    width: 50%;
+    height:500px;
+    overflow:auto;
+    top: 500px;
+    bottom:0;
+    font-family: 'Playfair Display','Open Sans',sans-serif;
+}
+
+/* .aboutcontainer{
+    position:relative;
+    /* padding-top:300px;
+    display:block;
+} */
+
+.par{
+    display:inline-block;
+    padding:20px;
+    width:50%;
+    background-color: red;
+}
+
+h3{
+    text-align: justify;
+}
